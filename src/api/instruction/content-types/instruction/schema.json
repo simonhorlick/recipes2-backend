@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "instructions",
+  "info": {
+    "singularName": "instruction",
+    "pluralName": "instructions",
+    "displayName": "Instruction"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Instruction": {
+      "type": "string"
+    }
+  }
+}
